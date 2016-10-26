@@ -1,0 +1,2 @@
+# VirusTotal_Powershell_Script
+VirusTotal Powershell Script
